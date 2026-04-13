@@ -1,5 +1,5 @@
-import pandas as pandas
-import matplotlib.pyplot as pyplot
+import pandas as pd
+import matplotlib.pyplot as plt
 
 #=================================
 #Leitura dos dados
